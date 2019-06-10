@@ -11,7 +11,8 @@ pyyolo is a simple wrapper for YOLO (compatible with YOLOv3).
 
 ## Test
 Edit parameters in example.py
-Include module path in python path
+
+NOTE: Include module path in python path
 ```bash
 import sys
 sys.path.append("/usr/local/lib/python2.7/dist-packages")
